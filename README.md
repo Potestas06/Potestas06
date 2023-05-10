@@ -1,6 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
+### My language skills from 1 - 10
+- German (Mother tongue)
+- Englisch (8)
 
+### NOW(2023)
+I'm in my First Year of a 4-Year apprenticeship to become a software engineer.
+
+#### My likings
 - 🌱 My favorite languages are JavaScript and C#.
 - ⚡ I love programming and learning new things.
 - 📖 I am a Developer in training.
