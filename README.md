@@ -10,7 +10,6 @@ I'm in my First Year of a 4-Year apprenticeship to become a software engineer.
 #### My likings
 - 🌱 My favorite languages are JavaScript and C#.
 - ⚡ I love programming and learning new things.
-- 📖 I am a Developer in training.
 
 [![Potestas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Potestas06&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
