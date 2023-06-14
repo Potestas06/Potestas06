@@ -14,10 +14,4 @@
   <li>🌱 My favorite languages are JavaScript and C#.</li>
   <li>⚡ I love programming and learning new things.</li>
 </ul>
-
-<a href="https://github.com/Potestas06/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Potestas06&show_icons=true&theme=dark" />
-</a>
-
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=potestas06&theme=dark&hide_border=true" alt="stats" />
