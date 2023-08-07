@@ -12,7 +12,7 @@
 </ul>
 
 <h3>NOW(2023)</h3>
-<p>I'm in my First Year of a 4-Year apprenticeship to become a software engineer.</p>
+<p>I'm in my second Year of a 4-Year apprenticeship to become a software engineer.</p>
 
 
 <h4>My likings</h4>
