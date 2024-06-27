@@ -4,6 +4,8 @@
   <br/> Welcome to my GitHub Account!
 </h1>
 
+<p><strong>MY SLOGAN:</strong> When your team leader asks you which team you work in and he is shocked at your answer "in yours" That's the sign that it would be smart to attend at least one team event.</p>
+
 <h3>My language skills from 1 - 10</h3>
 <ul>
   <li>German (Mother tongue)</li>
