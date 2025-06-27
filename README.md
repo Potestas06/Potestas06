@@ -18,7 +18,7 @@
 
 <h4>My likings</h4>
 <ul>
-  <li>🌱 My favorite languages are JavaScript and C#.</li>
+  <li>🌱 My favorite languages are <s>JavaScript</s> TypeScript and C#.</li>
   <li>⚡ I love programming and learning new things.</li>
 </ul>
 
