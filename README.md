@@ -14,6 +14,9 @@
 
 <h3>NOW(2024)</h3>
 <p>I'm in my third Year of a 4-Year apprenticeship to become a software engineer.</p>
+<p>🚒 I am a volunteer firefighter.</p>
+<img src="https://github.com/user-attachments/assets/cbd43bf5-fdbf-41ee-9797-59a0df561334" height="200"/>
+
 
 
 <h4>My likings</h4>
