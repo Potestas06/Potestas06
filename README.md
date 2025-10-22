@@ -12,7 +12,7 @@
   <li>English (8)</li>
 </ul>
 
-<h3>NOW(2024)</h3>
+<h3>NOW(2025)</h3>
 <p>I'm in my last Year of a 4-Year apprenticeship to become a software engineer.</p>
 <p>🚒 I am a volunteer firefighter.</p>
 <img src="https://github.com/user-attachments/assets/cbd43bf5-fdbf-41ee-9797-59a0df561334" height="200"/>
