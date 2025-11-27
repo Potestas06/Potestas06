@@ -25,6 +25,8 @@
   <li>⚡ I love programming and learning new things.</li>
 </ul>
 
+![](https://komarev.com/ghpvc/?username=Potestas06)
+
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
